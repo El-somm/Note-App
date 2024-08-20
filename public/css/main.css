@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'poppins', sans-serif;
     background-color: var(--background-color);
     color: var(--bs-primary-rgb);
     font-weight: 300;
@@ -12,7 +12,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Unbounded', cursive;
+    font-family: 'Unbounded',cursive;
     font-weight: 800;
 }
 
